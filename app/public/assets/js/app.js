@@ -1,10 +1,4 @@
 
+var videoBg = document.getElementById('video-bg-elem');
 
-//DELAY ANIMATION
-// $(function fadeIn() {
-
-// 	setTimeout(function(){
-// 		$("#logoName").addClass("animated fadeInLeft")
-// 	}, 4000);
-// })();
-
+videoBg.playbackRate = 4.0;
