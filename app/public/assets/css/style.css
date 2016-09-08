@@ -54,6 +54,10 @@ li{
 	padding: 7px;
 }
 
+.navLinks:hover{
+	color:#fff;
+}
+
 #icons{
 	color: #fff;
 }
